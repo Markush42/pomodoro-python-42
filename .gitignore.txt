@@ -1,0 +1,10 @@
+# Ignorar entorno virtual
+venv/
+
+# Ignorar archivos compilados de Python y cachés
+__pycache__/
+*.py[cod]
+*.log
+
+# Archivos de sistema (Mac)
+.DS_Store
